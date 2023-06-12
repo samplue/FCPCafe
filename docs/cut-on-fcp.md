@@ -22,8 +22,9 @@ If there's something missing, [please let us know](/contribute/).
 
 ### Drama
 
-- Blood Red Sky (2023) {{ netflix }} {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt6402468/)
+- Blood & Gold (2022) {{ netflix }} {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt18073328/)
 - Vazhiye (2022) {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt11304358/)
+- Blood Red Sky (2021) {{ netflix }} {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt6402468/)
 - Gaia (2021) {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt11881160/)
 - La leyenda negra (2020) {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt10313748/)
 - Boszorkányház (2020) {{ fcpx }} [!badge variant="warning" target="blank" text="IMDB"](https://www.imdb.com/title/tt10345858/)
